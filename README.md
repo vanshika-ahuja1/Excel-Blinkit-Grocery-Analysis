@@ -83,7 +83,7 @@ The data used in this analysis is based on **Blinkit's grocery sales records**, 
 ## 📸 **Dashboard Screenshot**
 Below is a screenshot of the **Excel Dashboard** showing key metrics and visualizations:
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/vanshika-ahuja1/Excel-Blinkit-Grocery-Analysis/blob/main/dashboard.png?raw=true)
 
 ---
 
