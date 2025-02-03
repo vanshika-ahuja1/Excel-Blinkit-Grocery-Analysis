@@ -80,14 +80,23 @@ The data used in this analysis is based on **Blinkit's grocery sales records**, 
 * **Rating** ⭐
 
 ---
+## 📸 **Dashboard Screenshot**
+Below is a screenshot of the **Excel Dashboard** showing key metrics and visualizations:
 
-# ⚙️ **How to Use the Dashboard**
-1. **Download the Excel File**: 📝 Clone or download this repository to get the Excel file containing the analysis and dashboard.
-2. **Open in Microsoft Excel**: 💼 Open the file in Excel for full interactivity.
-3. **Filter Data**: 🎛️ Use the slicers and dropdowns in the dashboard to filter data by **outlet size, item type**, or **outlet type**.
-4. **Explore Insights**: 🔍 Click on charts and tables to view detailed breakdowns of sales by different parameters like **outlet size**, **fat content**, and **location**.
+![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ---
+
+## 🧑‍💻 How to Use the Excel Dashboard
+
+1. Download the file from [this link](https://github.com/vanshika-ahuja1/Excel-Blinkit-Grocery-Analysis/raw/main/BlinkIT%20Grocery%20Data%20Excel.xlsx).
+2. Open the file in **Microsoft Excel**.
+3. Explore the dashboard and interact with the sales metrics, graphs, and data filters.
+
+
+
+---
+
 
 # 🔚 **Conclusion**
 This **Excel dashboard** provides a comprehensive overview of **Blinkit's grocery sales**, helping to identify key sales trends and performance across various dimensions. It can serve as a powerful tool for **decision-makers** within Blinkit to improve sales strategies, optimize product offerings, and enhance customer satisfaction.
